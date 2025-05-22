@@ -88,7 +88,3 @@ adb sideload Magisk-v27.0.zip
 
 ---
 
-## 🤘 Contributed by: [Your Name]
-
-If this helped you, consider giving this repo a ⭐!
-
